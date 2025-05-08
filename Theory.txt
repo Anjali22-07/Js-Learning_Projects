@@ -1,0 +1,4 @@
+----WE WILL LEARN DOM IN JAVASCRIPT-----------------------------
+--change HTML and CSS-- make a website interactive 
+--Element Selection 
+--console
